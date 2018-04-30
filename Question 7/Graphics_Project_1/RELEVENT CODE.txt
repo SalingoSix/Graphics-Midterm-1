@@ -1,0 +1,12 @@
+CONTROLS
+
+P - Position Viper for landing
+Space (Hold) - Move in for landing
+
+Changes made at lines:
+
+main.cpp:
+215, 335
+
+simpleFrag.glsl:
+13, 107

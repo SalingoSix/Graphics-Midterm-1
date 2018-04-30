@@ -1,0 +1,6 @@
+CONTROLS
+
+P - Position Viper for landing
+Space (Hold) - Move in for landing
+
+The new ply_x reading function is at the bottom of SceneHandler.cpp

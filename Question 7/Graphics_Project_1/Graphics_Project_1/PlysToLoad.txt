@@ -1,0 +1,4 @@
+3
+Battlestar_Galactica_ASCII_Res_4_116617_faces.ply_x Battlestar
+Raider_ASCII_UVtex.ply_x Raider
+Viper_MkVII_ASCII_UVTex.ply_x Viper

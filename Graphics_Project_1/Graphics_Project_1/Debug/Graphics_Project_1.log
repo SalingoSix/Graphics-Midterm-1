@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Graphics_Project_1.vcxproj, Media Project 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(247): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(129): warning C4101: 'vpos_location': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(129): warning C4101: 'vcol_location': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(128): warning C4101: 'fragment_shader': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(128): warning C4101: 'vertex_shader': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(129): warning C4101: 'mvp_location': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(128): warning C4101: 'program': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\midterm\graphics_project_1\graphics_project_1\main.cpp(128): warning C4101: 'vertex_buffer': unreferenced local variable
+  Graphics_Project_1.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Graphics I\Midterm\Graphics_Project_1\Debug\Graphics_Midterm.exe
+  Graphics_Project_1.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Graphics I\Midterm\Graphics_Project_1\Debug\Graphics_Midterm.pdb (Partial PDB)
